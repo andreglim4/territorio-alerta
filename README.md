@@ -326,7 +326,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## 18. Uso de Inteligência Artificial
 
-A inteligência artificial foi utilizada como ferramenta de apoio ao desenvolvimento do projeto, contribuindo para a geração inicial de código, implementação de funcionalidades, elaboração de testes e documentação técnica.
+A inteligência artificial foi utilizada como ferramenta de apoio ao desenvolvimento do projeto, contribuindo para a implementação de funcionalidades, elaboração de testes e documentação técnica.
 
 A equipe foi responsável por definir os requisitos, escolher as funcionalidades que seriam desenvolvidas, estabelecer a arquitetura do sistema e dividir as responsabilidades entre os integrantes.
 
@@ -339,5 +339,3 @@ Durante o processo, a IA foi utilizada como apoio na implementação e resoluç�
 | _André Gouveia RM564219_     | Domínio e exceções          | `pom.xml` e estrutura Maven, `excecao/*`, `ComponenteTerritorial`, `PontoMonitoramento`, `Sensor` e os 3 sensores, `DadosTerritorio`, `Limiares`, enums do domínio, menu do console (`console/*`, `SistemaMonitoramento`)                         |
 | _Luiz Claro RM563014_        | Persistência                | `Medicao`, `Alerta`, `persistencia/*`, `application.properties`, `ExportadorCSV`, `Formatos`, `PersistenciaIntegracaoTest`, `ExportadorCSVTest`, README                                                                                           |
 | _Gabriel Nacarelli RM565298_ | Previsões, alertas e testes | `ResultadoPrevisao`, `EstrategiaPrevisao` e filhas, `ConfiguracaoSistema`, `FabricaPrevisao`, `AvaliadorAlertas`, `ServicoMonitoramento` e records do serviço, `ConfiguracaoAplicacao`, testes de domínio/previsões/padrões e o teste com Mockito |
-
-Todos os integrantes devem ter commits no GitHub, com mensagens claras.
