@@ -9,7 +9,7 @@
 | Atividade         | Global Solution 2º/2026 — _Territory Predictive Insights_                                  |
 | Tema              | CitizenTech — tecnologias para as necessidades reais das pessoas nas cidades e comunidades |
 | Recorte escolhido | 🌊 Clima local: chuva intensa e risco de alagamento em pontos vulneráveis                  |
-| Integrantes       | André Gouveia | Luiz Claro | Gabriel Nacarelli                                             |
+| Integrantes       | André Gouveia, Luiz Claro, Gabriel Nacarelli                                               |
 
 **Objetivo:** aplicação Java orientada a objetos, executada em um menu de console, que simula sensores ambientais de um ponto vulnerável, grava as medições em banco de dados, gera previsões simples a partir do histórico e emite alertas explicados quando os valores previstos atingem limiares configuráveis.
 
