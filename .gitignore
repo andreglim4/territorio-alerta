@@ -1,0 +1,10 @@
+target/
+data/*.db
+data/*.trace.db
+exportacoes/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
